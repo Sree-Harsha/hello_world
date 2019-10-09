@@ -1,2 +1,3 @@
 Details added newly for master
 Details added after stage
+details added after feature2 branch creation
